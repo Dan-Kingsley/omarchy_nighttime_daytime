@@ -14,15 +14,6 @@ A Python utility that automatically switches your system theme between light and
 - **Python 3**
 - **Omarchy Theme Manager:** This script expects themes to be located at `~/.local/share/omarchy/themes` and the switcher utility at `~/.local/share/omarchy/bin/omarchy-theme-set`.
 
-## Configuration
-
-Edit the top of `omarchy_nighttime_daytime.py` to set your location:
-
-```python
-LATITUDE = -36.8485
-LONGITUDE = 174.7635
-```
-
 ## Usage
 
 ### Manual Run
