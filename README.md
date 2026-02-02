@@ -7,7 +7,7 @@ A Python utility that automatically switches your system theme between light and
 - **Solar Calculation:** Accurately calculates sunrise and sunset times for your specific latitude and longitude (no API required).
 - **Automated Switching:** Automatically applies a random theme from your configured collection when day transitions to night (and vice versa).
 - **Systemd Integration:** Includes built-in commands to install itself as a systemd user service for "set and forget" operation.
-- **Logging:** Keeps a log of operations in `nighttime_daytime.log`.
+- **Logging:** Keeps a log of operations in `omarchy_nighttime_daytime.log`.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ A Python utility that automatically switches your system theme between light and
 
 ## Configuration
 
-Edit the top of `nighttime_daytime.py` to set your location:
+Edit the top of `omarchy_nighttime_daytime.py` to set your location:
 
 ```python
 LATITUDE = -36.8485
@@ -30,7 +30,7 @@ LONGITUDE = 174.7635
 To run the script manually (keeps running in the foreground/background depending on how you invoke it):
 
 ```bash
-./nighttime_daytime.py
+./omarchy_nighttime_daytime.py
 ```
 
 Options:
@@ -42,15 +42,15 @@ Options:
 To install the script as a background service that starts on login:
 
 ```bash
-./nighttime_daytime.py install
+./omarchy_nighttime_daytime.py install
 ```
 
 To remove the service and stop the background process:
 
 ```bash
-./nighttime_daytime.py disable
+./omarchy_nighttime_daytime.py disable
 ```
 
 ## Logs
 
-Logs are written to `nighttime_daytime.log` in the same directory as the script.
+Logs are written to `omarchy_nighttime_daytime.log` in the same directory as the script.
