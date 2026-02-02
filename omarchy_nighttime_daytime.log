@@ -1,0 +1,78 @@
+opencode: no process found
+[57642:57642:0202/163915.793948:ERROR:media/gpu/vaapi/vaapi_wrapper.cc:1628] vaInitialize failed: unknown libva error
+[57896:57896:0202/163916.303225:ERROR:media/gpu/vaapi/vaapi_wrapper.cc:1628] vaInitialize failed: unknown libva error
+
+--- 2026-02-02 16:48:07.099188 ---
+Nighttime-Daytime Service Started. Location: -36.8485, 174.7635
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:37:02
+Today's Sunset:  20:31:46
+State change detected: None -> day
+Switching to light theme: flexoki-light
+
+--- 2026-02-02 16:57:19.474200 ---
+Omarchy-Nighttime-Daytime Service Started. Location: -36.8485, 174.7635
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:37:02
+Today's Sunset:  20:31:46
+State change detected: None -> day
+Switching to light theme: rose-pine
+Exiting...
+
+--- 2026-02-02 16:57:48.080838 ---
+Omarchy-Nighttime-Daytime Service Started. Location: -36.8485, 174.7635
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:37:02
+Today's Sunset:  20:31:46
+State change detected: None -> day
+Switching to light theme: flexoki-light
+
+--- 2026-02-02 17:05:33.532233 ---
+Attempting to detect location via IP...
+Location detected: Auckland, New Zealand (-36.8804, 174.7982)
+Omarchy-Nighttime-Daytime Service Started. Location: -36.8804, 174.7982
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:36:50
+Today's Sunset:  20:31:41
+State change detected: None -> day
+Switching to light theme: flexoki-light
+
+--- 2026-02-02 17:10:41.830009 ---
+Attempting to detect location via IP...
+Location detected: Auckland, New Zealand (-36.8804, 174.7982)
+Omarchy-Nighttime-Daytime Service Started. Location: -36.8804, 174.7982
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:36:50
+Today's Sunset:  20:31:41
+State change detected: None -> day
+Switching to light theme: flexoki-light
+
+--- 2026-02-02 17:18:22.070539 ---
+Attempting to detect location via IP...
+Location detected: Auckland, New Zealand (-36.8804, 174.7982)
+Omarchy-Nighttime-Daytime Service Started. Location: -36.8804, 174.7982
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:36:50
+Today's Sunset:  20:31:41
+State change detected: None -> day
+Switching to light theme: flexoki-light
+
+--- 2026-02-02 17:20:42.960826 ---
+Skipping IP detection (--no-ip flag set).
+Found coordinates for timezone 'Pacific/Auckland' in system database: (-36.86666666666667, 174.76666666666668)
+Omarchy-Nighttime-Daytime Service Started. Location: -36.86666666666667, 174.76666666666668
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:36:59
+Today's Sunset:  20:31:47
+State change detected: None -> day
+Switching to light theme: catppuccin-latte
+
+--- 2026-02-02 17:21:28.089720 ---
+Skipping IP detection (--no-ip flag set).
+Found coordinates for timezone 'Pacific/Auckland' in system database: (-36.86666666666667, 174.76666666666668)
+Omarchy-Nighttime-Daytime Service Started. Location: -36.86666666666667, 174.76666666666668
+Found 3 light themes and 11 dark themes.
+Today's Sunrise: 06:36:59
+Today's Sunset:  20:31:47
+State change detected: None -> day
+Switching to light theme: rose-pine
